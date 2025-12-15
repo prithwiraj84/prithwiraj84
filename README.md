@@ -49,7 +49,13 @@
 
 - ⚡ Fun fact **I don’t just learn technologies — I actually build and deploy projects with them, from chatbots and portfolios to blockchain and IoT systems, turning ideas into working products before most people finish tutorials. 🚀**
 
-<img src="https://raw.githubusercontent.com/prithwiraj84/prithwiraj84/output/snake.yml" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prithwiraj84/prithwiraj84/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/prithwiraj84/prithwiraj84/output/snake.svg" alt="Snake animation" />
+  </picture>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
