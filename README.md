@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on [A Multi-Temporal lulc map monitoring system](https://elite-thunder-468215-t4.projects.earthengine.app/view/amulti-temporallulcmapmonitoringsystem)
 
-- 🌱 I’m currently learning **Blockchain , API**
+- 🌱 I’m currently learning **Data Science , ML , API**
 
 - 👯 I’m looking to collaborate on [Wireless NAS File Sharing Server](http://prithwirajdas.netlify.app/project_doc2.pdf)
 
