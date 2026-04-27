@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **prithwirajdas84@gmail.com**
 
-- 📄 Know about my experiences [https://prithwirajdas.netlify.app/Prithwiraj_Das.pdf](https://prithwirajdas.netlify.app/Prithwiraj_Das.pdf)
+- 📄 Know about my experiences [Resume](https://www.devprithwiraj.in/Prithwiraj_Das.pdf)
 
 - ⚡ Fun fact **I don’t just learn technologies — I actually build and deploy projects with them, from chatbots and portfolios to blockchain and IoT systems, turning ideas into working products before most people finish tutorials. 🚀**
 
