@@ -39,7 +39,7 @@
 
 - 🤝 I’m looking for help with [Orion AI Chatbot](https://orion-ai-chatbot.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://prithwirajdas.netlify.app/](https://www.devprithwiraj.in/)
+- 👨‍💻 All of my projects are available at [https://www.devprithwiraj.in/](https://www.devprithwiraj.in/)
 
 - 💬 Ask me about **Python, AIML and IOT**
 
