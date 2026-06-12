@@ -37,7 +37,7 @@
 
 - 👯 I’m looking to collaborate on [Wireless NAS File Sharing Server](http://www.devprithwiraj.in/project_doc2.pdf)
 
-- 🤝 I’m looking for help with [Orion AI Chatbot](https://orion-ai-chatbot.onrender.com/)
+- 🤝 I’m looking for help with [Omnivra AI Chatbot](https://omnivra-ai.devprithwiraj.in/)
 
 - 👨‍💻 All of my projects are available at [https://www.devprithwiraj.in/](https://www.devprithwiraj.in/)
 
